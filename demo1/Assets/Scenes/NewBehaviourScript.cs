@@ -5,6 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour {
     public Collider aa;
     public AudioSource ada;
+    public float adsfa;
 	// Use this for initialization
 	void Start () {
 		
